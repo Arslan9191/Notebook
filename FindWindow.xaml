@@ -1,0 +1,12 @@
+﻿<Window x:Class="WPFNotebook.FindWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Найти" Height="200" Width="400">
+    <Grid>
+        <Label Content="Найти:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0"/>
+        <TextBox Name="findTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="60,10,0,0" Width="300"/>
+        <Button Content="Найти" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="20,50,0,0" Width="100" Click="FindButton_Click"/>
+        <Button Content="Найти далее" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="130,50,0,0" Width="100" Click="FindNextButton_Click"/>
+        <Button Content="Найти ранее" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="240,50,0,0" Width="100" Click="FindPreviousButton_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,10 @@
+﻿<Window x:Class="WPFNotebook.GoToLineWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Перейти" Height="150" Width="300">
+    <Grid>
+        <Label Content="Номер строки:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0"/>
+        <TextBox Name="lineNumberTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="90,10,0,0" Width="180"/>
+        <Button Content="Перейти" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="100,50,0,0" Width="100" Click="GoToLineButton_Click"/>
+    </Grid>
+</Window>

@@ -1,0 +1,17 @@
+﻿<Window x:Class="WPFNotebook.FontDialog"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Выбор шрифта" Height="300" Width="400">
+    <Grid>
+        <Label Content="Шрифт:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,10,0,0"/>
+        <ComboBox Name="FontFamilyComboBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="60,10,0,0" Width="300">
+            <!-- Добавьте шрифты по умолчанию -->
+            <ComboBoxItem Content="Arial"/>
+            <ComboBoxItem Content="Times New Roman"/>
+            <ComboBoxItem Content="Verdana"/>
+        </ComboBox>
+        <Label Content="Размер:" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,40,0,0"/>
+        <TextBox Name="FontSizeTextBox" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="60,40,0,0" Width="100"/>
+        <Button Content="ОК" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="150,80,0,0" Width="100" Click="OKButton_Click"/>
+    </Grid>
+</Window>

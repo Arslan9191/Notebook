@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Arslan\\source\\repos\\LearnWPF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{896F23D1-EBB1-4485-9309-9A069427CBC4}|LearnWPF.csproj|c:\\users\\arslan\\source\\repos\\learnwpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{896F23D1-EBB1-4485-9309-9A069427CBC4}|LearnWPF.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896F23D1-EBB1-4485-9309-9A069427CBC4}|LearnWPF.csproj|C:\\Users\\Arslan\\source\\repos\\LearnWPF\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{896F23D1-EBB1-4485-9309-9A069427CBC4}|LearnWPF.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896F23D1-EBB1-4485-9309-9A069427CBC4}|LearnWPF.csproj|C:\\Users\\Arslan\\source\\repos\\LearnWPF\\findwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{896F23D1-EBB1-4485-9309-9A069427CBC4}|LearnWPF.csproj|solutionrelative:findwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896F23D1-EBB1-4485-9309-9A069427CBC4}|LearnWPF.csproj|C:\\Users\\Arslan\\source\\repos\\LearnWPF\\findwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{896F23D1-EBB1-4485-9309-9A069427CBC4}|LearnWPF.csproj|solutionrelative:findwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896F23D1-EBB1-4485-9309-9A069427CBC4}|LearnWPF.csproj|C:\\Users\\Arslan\\source\\repos\\LearnWPF\\replacewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{896F23D1-EBB1-4485-9309-9A069427CBC4}|LearnWPF.csproj|solutionrelative:replacewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896F23D1-EBB1-4485-9309-9A069427CBC4}|LearnWPF.csproj|C:\\Users\\Arslan\\source\\repos\\LearnWPF\\fontdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{896F23D1-EBB1-4485-9309-9A069427CBC4}|LearnWPF.csproj|solutionrelative:fontdialog.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896F23D1-EBB1-4485-9309-9A069427CBC4}|LearnWPF.csproj|C:\\Users\\Arslan\\source\\repos\\LearnWPF\\gotolinewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{896F23D1-EBB1-4485-9309-9A069427CBC4}|LearnWPF.csproj|solutionrelative:gotolinewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896F23D1-EBB1-4485-9309-9A069427CBC4}|LearnWPF.csproj|C:\\Users\\Arslan\\source\\repos\\LearnWPF\\gotolinewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{896F23D1-EBB1-4485-9309-9A069427CBC4}|LearnWPF.csproj|solutionrelative:gotolinewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896F23D1-EBB1-4485-9309-9A069427CBC4}|LearnWPF.csproj|C:\\Users\\Arslan\\source\\repos\\LearnWPF\\fontdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{896F23D1-EBB1-4485-9309-9A069427CBC4}|LearnWPF.csproj|solutionrelative:fontdialog.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{896F23D1-EBB1-4485-9309-9A069427CBC4}|LearnWPF.csproj|C:\\Users\\Arslan\\source\\repos\\LearnWPF\\replacewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{896F23D1-EBB1-4485-9309-9A069427CBC4}|LearnWPF.csproj|solutionrelative:replacewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Arslan\\source\\repos\\LearnWPF\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Arslan\\source\\repos\\LearnWPF\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:14:20.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Arslan\\source\\repos\\LearnWPF\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Arslan\\source\\repos\\LearnWPF\\MainWindow.xaml",
+              "RelativeToolTip": "MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-21T19:05:56.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FindWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Arslan\\source\\repos\\LearnWPF\\FindWindow.xaml",
+              "RelativeDocumentMoniker": "FindWindow.xaml",
+              "ToolTip": "C:\\Users\\Arslan\\source\\repos\\LearnWPF\\FindWindow.xaml",
+              "RelativeToolTip": "FindWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-22T10:00:21.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FontDialog.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Arslan\\source\\repos\\LearnWPF\\FontDialog.xaml.cs",
+              "RelativeDocumentMoniker": "FontDialog.xaml.cs",
+              "ToolTip": "C:\\Users\\Arslan\\source\\repos\\LearnWPF\\FontDialog.xaml.cs",
+              "RelativeToolTip": "FontDialog.xaml.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:24:30.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FontDialog.xaml",
+              "DocumentMoniker": "C:\\Users\\Arslan\\source\\repos\\LearnWPF\\FontDialog.xaml",
+              "RelativeDocumentMoniker": "FontDialog.xaml",
+              "ToolTip": "C:\\Users\\Arslan\\source\\repos\\LearnWPF\\FontDialog.xaml",
+              "RelativeToolTip": "FontDialog.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-22T10:23:59.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GoToLineWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Arslan\\source\\repos\\LearnWPF\\GoToLineWindow.xaml",
+              "RelativeDocumentMoniker": "GoToLineWindow.xaml",
+              "ToolTip": "C:\\Users\\Arslan\\source\\repos\\LearnWPF\\GoToLineWindow.xaml",
+              "RelativeToolTip": "GoToLineWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-22T10:02:52.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ReplaceWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Arslan\\source\\repos\\LearnWPF\\ReplaceWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ReplaceWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Arslan\\source\\repos\\LearnWPF\\ReplaceWindow.xaml.cs",
+              "RelativeToolTip": "ReplaceWindow.xaml.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAA2wBQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:02:29.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ReplaceWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Arslan\\source\\repos\\LearnWPF\\ReplaceWindow.xaml",
+              "RelativeDocumentMoniker": "ReplaceWindow.xaml",
+              "ToolTip": "C:\\Users\\Arslan\\source\\repos\\LearnWPF\\ReplaceWindow.xaml",
+              "RelativeToolTip": "ReplaceWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-22T10:01:52.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FindWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Arslan\\source\\repos\\LearnWPF\\FindWindow.xaml.cs",
+              "RelativeDocumentMoniker": "FindWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Arslan\\source\\repos\\LearnWPF\\FindWindow.xaml.cs",
+              "RelativeToolTip": "FindWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:00:43.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GoToLineWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Arslan\\source\\repos\\LearnWPF\\GoToLineWindow.xaml.cs",
+              "RelativeDocumentMoniker": "GoToLineWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Arslan\\source\\repos\\LearnWPF\\GoToLineWindow.xaml.cs",
+              "RelativeToolTip": "GoToLineWindow.xaml.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-22T10:03:24.466Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
